@@ -3,7 +3,7 @@ import { createGlobalStyle } from 'styled-components'
 export const cores = {
   corTexto: '#121714',
   corFundo: '#e7e7e7',
-  corPrincipal: '#152926',
+  corPrincipal: '#63d6fa',
   corSecundaria: '#155956'
 }
 
@@ -13,7 +13,6 @@ export const GlobalStyle = createGlobalStyle`
     padding: 0;
     list-style: none;
     box-sizing: border-box;
-    font-family: "Poppins", sans-serif;
     color: ${cores.corTexto}
   }
 

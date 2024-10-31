@@ -14,8 +14,7 @@ export const Capa = styled.div`
   img {
     display: block;
     width: 100%;
-    margin-bottom: 8px;
-    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.3);
+    margin-bottom: 10px;
   }
 `
 
